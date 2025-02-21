@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\.github\\workflows\\ci-cd.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\.github\\workflows\\ci-cd.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\devops\\cadastroclientes\\cadastroclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07EDCAB7-CF4F-4A6E-954A-1C35BBA0C3B9}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ci-cd.yml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\.github\\workflows\\ci-cd.yml",
+              "RelativeDocumentMoniker": "CadastroClientes\\.github\\workflows\\ci-cd.yml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\.github\\workflows\\ci-cd.yml",
+              "RelativeToolTip": "CadastroClientes\\.github\\workflows\\ci-cd.yml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-15T20:59:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "CadastroClientes\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "CadastroClientes\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T20:57:23.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroClientes\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "CadastroClientes\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T20:57:00.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "CadastroClientes\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:56:00.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CadastroClientes\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:55:27.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Models\\Cliente.cs",
+              "RelativeToolTip": "CadastroClientes\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:54:56.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\appsettings.json",
+              "RelativeDocumentMoniker": "CadastroClientes\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\appsettings.json",
+              "RelativeToolTip": "CadastroClientes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T20:54:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\DevOps\\CadastroClientes\\CadastroClientes\\Program.cs",
+              "RelativeToolTip": "CadastroClientes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:54:27.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
